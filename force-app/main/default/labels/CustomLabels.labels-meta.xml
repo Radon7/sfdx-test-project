@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>CalendarAllDay</fullName>
+        <categories>Custom Mobile Calendar</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Calendar All Day</shortDescription>
+        <value>All Day</value>
+    </labels>
+    <labels>
+        <fullName>CalendarFilterPlaceholder</fullName>
+        <categories>Custom Mobile Calendar</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Calendar Filter Placeholder</shortDescription>
+        <value>Search here to filter...</value>
+    </labels>
+    <labels>
+        <fullName>CalendarNoEvents</fullName>
+        <categories>Custom Mobile Calendar</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Calendar No Events</shortDescription>
+        <value>No events this day!</value>
+    </labels>
+    <labels>
+        <fullName>CalendarNoFilter</fullName>
+        <categories>Custom Mobile Calendar</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Calendar No Filter</shortDescription>
+        <value>No filters available</value>
+    </labels>
+</CustomLabels>
