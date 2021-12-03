@@ -1,7 +1,7 @@
 public without sharing class InstanceTriggerHandler {
   // Set a couple of constants to help code cleaness
   private static final String[] UPDATE_FIELDS = new String[]{
-    'Type__c',
+    'Type__c', 'Pippo',
     'Licenses__c',
     'Account__c'
   };
